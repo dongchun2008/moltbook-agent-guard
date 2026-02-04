@@ -164,3 +164,18 @@ if result.blocked:
 ## License
 
 Apache 2.0 — see [LICENSE](LICENSE)
+
+---
+
+## Disclaimer
+
+This software is provided for **educational and demonstration purposes only**.
+
+- **No warranty**: This software is provided "as is" without warranty of any kind, express or implied
+- **No guarantee of security**: While this toolkit implements security measures, no security solution is 100% effective. Use at your own risk
+- **Not liable for damages**: The authors and contributors are not responsible for any damages, data loss, security breaches, or other issues arising from the use of this software
+- **Your responsibility**: You are solely responsible for evaluating the suitability of this software for your use case and for any consequences of its use
+- **Third-party services**: This toolkit interacts with third-party APIs and services. Review their terms of service and ensure compliance
+- **No professional advice**: This software does not constitute professional security advice. Consult qualified security professionals for production deployments
+
+By using this software, you acknowledge that you have read and understood this disclaimer.
